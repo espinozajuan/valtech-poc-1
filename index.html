@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>JS Challenge 01 - Valtech</title>
+</head>
+<body>
+  <header class="header">
+    <form class="filter-form">
+      <div class="search-by-fname-lname-wrapper">
+        <span class="search-icon">🔍</span>
+        <input type="text" class="search-inp" placeholder="Search" value="">
+      </div>
+      <div class="sort-by-asc-desc-wrapper">
+        <label for="sort-by-inp">Sort by:</label>
+        <select type="text" id="sort-by-inp" class="sort-by-inp">
+          <option value="asc">Asc</option>
+          <option value="desc">Desc</option>
+        </select>
+      </div>
+    </form>
+    <p class="filter-results-info-wrapper">
+      Showing <span class="cur-page-first-user-serail">1</span>-<span class="cur-page-last-user-serail">10</span> of <span class="total-users-count">28</span> candidates
+    </p>
+  </header>
+  <main class="main">
+    <ul class="users-items">
+      <!-- users go here  -->
+    </ul>
+  </main>
+  <footer class="footer">
+    <ul class="page-items">
+      <!-- pages go here  -->
+    </ul>
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+</html>
