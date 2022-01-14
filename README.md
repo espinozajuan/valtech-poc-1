@@ -14,3 +14,5 @@
 ***Notas:***
 
 - Diseño figma utilizado: https://www.figma.com/file/fMEUWPXc1rIJKK3NuGH4NU/Javascript-Challenge-Mockup?node-id=0%3A1
+
+## Live Version https://valtech-challenge-01.vercel.app/
