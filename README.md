@@ -1,4 +1,4 @@
-# Primer Challenge Técnico Valtech
+# Valtech JS PoC #1
 
 ***Consigna principal:*** Desarrollar una User Listing Page, donde el usuario pueda listar usuarios, buscar, ordenar, etc.
 
